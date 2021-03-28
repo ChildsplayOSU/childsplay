@@ -1,0 +1,12 @@
+#! /bin/bash
+
+#
+# Updates the childsplay website (straight from git)
+# Located at /nfs/ca/info/research_www/childsplay on flip
+# under the 'childsplay' group
+#
+
+cd /nfs/ca/info/research_www/childsplay
+git stash
+git checkout main
+git pull

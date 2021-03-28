@@ -1,0 +1,4 @@
+# top level rewrite
+RewriteRule "^([^./]+)\.(.+)$" "\./public/$1\.$2"
+
+# need an additional rewrite for items in folders (posts and such)
