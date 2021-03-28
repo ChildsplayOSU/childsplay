@@ -1,4 +1,4 @@
-# top level rewrite
-RewriteRule "^([^./]+)\.(.+)$" "\./public/$1\.$2"
-
-# need an additional rewrite for items in folders (posts and such)
+# Rewrite all requests that aren't accessing the 'public' directory
+# but only once, and the front-facing url does not reflect this internal routing
+RewriteCond %{REQUEST_URI} !public/
+RewriteRule "(.*)" "\./public/$1" [L]
