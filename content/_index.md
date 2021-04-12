@@ -6,4 +6,8 @@ draft: true
 
 # Childsplay
 
-Home page WIP...
+
+## The Approach
+{{< rawhtml >}}
+  <h1>A heading</h1>
+{{< /rawhtml >}}
