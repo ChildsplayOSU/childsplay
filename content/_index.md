@@ -29,20 +29,22 @@ Childsplay
         <!-- a card  -->
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">Unplugged</button>
+              <a href="./unplugged" class="btn btn-primary btn-lg btn-nav" role="button">Unplugged</a>
             </div>
         </div>
         <!-- a card  -->
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">BoGL</button>
+              <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">BoGL</button> -->
+              <a href="./bogl" class="btn btn-primary btn-lg btn-nav" role="button">BoGL</a>
             </div>
         </div>
         <!-- a card  -->
-        <div class="col-sm-6 col-lg-3 nav-btn">
-            <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">Modules</button>
-            </div>
+        <!-- <div class="col-sm-6 col-lg-3 nav-btn">
+            <div class="d-flex justify-content-center"> -->
+              <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Modules</button> -->
+              <!-- <a href="./modules" class="btn btn-primary btn-lg btn-nav" role="button">Unplugged</a>
+            </div> -->
         </div>
       </div>
     </div>
@@ -52,19 +54,22 @@ Childsplay
         <!-- a card  -->
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">Educator Material</button>
+              <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Educator Material</button> -->
+              <a href="./publications" class="btn btn-primary btn-lg btn-nav" role="button">Publications</a>
             </div>
         </div>
         <!-- a card  -->
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">Publications</button>
+              <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Publications</button> -->
+              <a href="./educator-material" class="btn btn-primary btn-lg btn-nav" role="button">Educator Material</a>
             </div>
         </div>
         <!-- a card  -->
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
-              <button type="button" class="btn btn-primary btn-lg btn-nav">Personel</button>
+              <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Personel</button> -->
+              <a href="./personnel" class="btn btn-primary btn-lg btn-nav" role="button">Personnel</a>
             </div>
         </div>
       </div>
