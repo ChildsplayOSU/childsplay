@@ -4,22 +4,19 @@ date: 2021-04-06T20:37:58-07:00
 draft: true
 ---
 
-{{< rawhtml >}}
-<div class="container-fluid">
+# Childsplay
+## The approach
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus velit et metus pharetra
+ullamcorper. Nunc nec ornare erat, vitae maximus eros. Etiam pharetra efficitur sapien ut
+ultricies. Ut lacus quam, consequat non efficitur sodales, porta ullamcorper orci. Praesent
+ultricies sit amet tellus vitae volutpat. Duis ac nisi ornare, lacinia dolor ut, efficitur ex. Nam
+consectetur bibendum vestibulum.
 
-</div>
-<div class="jumbotron">
-  <h1 class="display-4">
-{{< /rawhtml >}}
-<!-- Here is the site title  -->
-Childsplay
-{{< rawhtml >}}
-  <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling 
-  extra attention to featured content or information.</p>
-</div>
-{{< /rawhtml >}}
-
-
+Aenean id lacus maximus tortor elementum molestie id a est. Vivamus nec neque ante. Etiam
+maximus nulla ac lectus tempor efficitur. Sed in nulla magna. Cras sed ullamcorper ipsum, ac
+fermentum lacus. Maecenas odio dolor, interdum quis nisl mattis, semper viverra nulla. Fusce
+eu tortor sed felis aliquam tempor quis sed augue. Fusce dapibus dui malesuada sollicitudin
+lobortis.
 
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
 {{< rawhtml >}}
@@ -62,7 +59,7 @@ Childsplay
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
               <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Publications</button> -->
-              <a href="./educator-material" class="btn btn-primary btn-lg btn-nav" role="button">Educator Material</a>
+              <a href="./educator-material" class="btn btn-primary btn-lg btn-nav disabled" role="button">Educator Material</a>
             </div>
         </div>
         <!-- a card  -->
