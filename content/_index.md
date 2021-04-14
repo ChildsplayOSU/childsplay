@@ -70,16 +70,4 @@ lobortis.
         </div>
       </div>
     </div>
-    <!-- This is meant to be a tempory fix for css not applying to these buttons -->
-    <style type=text/css>
-      .btn-nav {
-        width: 292px;
-        height: 213px;
-        line-height: 175px;
-      }
-      .nav-btn{
-        padding: 12px;
-      }
-    </style>
-
 {{< /rawhtml >}}

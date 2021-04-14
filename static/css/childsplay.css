@@ -1,7 +1,7 @@
 .wrap {
   max-width: 1000px;
   margin: 8px auto;
-  padding: 8px auto;
+  padding: 8px;
 }
 
 #bogl-img {
@@ -16,11 +16,29 @@
   /* background: #eee; */
 }
 
-/* .btn-nav {
+
+/** Home Page Button Styling **/
+/* This is meant to be a tempory fix for css not applying to these buttons */
+.btn-nav {
   width: 292px;
   height: 213px;
+  line-height: 175px;
 }
 
 .nav-btn{
   padding: 12px;
-} */
+}
+
+
+
+/** Footer Styling, folds it in at <= 900px **/
+@media(max-width: 900px) {
+  .footer-item {
+    display: block;
+    text-align: left;
+  }
+
+  .footer-vanish {
+    display: none;
+  }
+}
