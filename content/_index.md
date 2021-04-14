@@ -58,7 +58,7 @@ lobortis.
         <div class="col-sm-6 col-lg-3 nav-btn">
             <div class="d-flex justify-content-center">
               <!-- <button type="button" class="btn btn-primary btn-lg btn-nav">Publications</button> -->
-              <a href="./educator-material" class="btn btn-primary btn-lg btn-nav disabled" role="button">Educator Material</a>
+              <a href="./educatormaterial" class="btn btn-primary btn-lg btn-nav" role="button">Educator Material</a>
             </div>
         </div>
         <!-- a card  -->
@@ -75,10 +75,11 @@ lobortis.
       .btn-nav {
         width: 292px;
         height: 213px;
+        line-height: 175px;
       }
       .nav-btn{
         padding: 12px;
       }
     </style>
-    
+
 {{< /rawhtml >}}
