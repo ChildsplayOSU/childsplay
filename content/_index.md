@@ -18,6 +18,12 @@ fermentum lacus. Maecenas odio dolor, interdum quis nisl mattis, semper viverra 
 eu tortor sed felis aliquam tempor quis sed augue. Fusce dapibus dui malesuada sollicitudin
 lobortis.
 
+
+### About
+Childsplay contains supplemental information related to the development of curriculum and tools
+for BoGL. Work for this project has been funded by an NSF grant obtained by [The School of
+Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/).
+
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
 {{< rawhtml >}}
     <!-- top  -->
@@ -52,7 +58,7 @@ lobortis.
           <img class="card-img-top" src="http://placekitten.com/400/400" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Publications</h5>
-            <p class="card-text">Published papers related to the creation and usage of BoGL and unplugged.</p>
+            <p class="card-text">Published papers related to the creation and usage of BoGL and unplugged curriculum.</p>
             <a href="./publications" class="btn btn-primary">See Publications</a>
           </div>
         </div>
@@ -61,7 +67,7 @@ lobortis.
           <img class="card-img-top" src="http://placekitten.com/550/550" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Educator Material</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Unplugged and BoGL content for educators.</p>
             <a href="./educatormaterial" class="btn btn-primary">See Educator Material</a>
           </div>
         </div>
@@ -70,7 +76,7 @@ lobortis.
           <img class="card-img-top" src="http://placekitten.com/900/900" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Personnel</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">People involved with the development of anything related to Childsplay.</p>
             <a href="./personnel" class="btn btn-primary">See Personnel</a>
           </div>
         </div>
