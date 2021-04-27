@@ -2,7 +2,7 @@
 title: "Bogl"
 date: 2021-04-06T19:06:33-07:00
 draft: true
-coverimage: "../img/bogl.png"
+coverimage: "../img/favicon.ico"
 ---
 
 ### Introduction
@@ -22,5 +22,14 @@ There are many other introductory languages out there as well, such as Scratch a
 ### How do I use it?
 
 You can get started right now by [reading the first tutorial](https://bogl.engr.oregonstate.edu/tutorials/GettingStarted.html). From there, you can work along in our [online tool](https://bogl.engr.oregonstate.edu/) to write and run programs. You can even write programs in the tutorials using our miniature editor.
+{{< bogl-repl >}}
+-- an example BoGL program!
+game Example
 
-{{< center-img src="../img/mini-repl.png" >}}
+type Msg = {Lets_Use_BoGL}
+
+-- type 'getMsg' and hit enter
+-- on the right ->
+getMsg : Msg
+getMsg = Lets_Use_BoGL
+{{< /bogl-repl >}}
