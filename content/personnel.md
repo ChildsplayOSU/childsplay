@@ -2,6 +2,7 @@
 title: "Personnel"
 date: 2021-04-06T19:06:29-07:00
 draft: true
+coverimage: "../img/favicon.ico"
 ---
 
 Here's an example of some of the personnel that we have.
@@ -30,4 +31,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 [More about Iota](#)
 
-...and continue listing all the team...
+...and continue listing the rest of the team...

@@ -2,6 +2,7 @@
 title: "Unplugged"
 date: 2021-04-06T19:05:40-07:00
 draft: true
+coverimage: "../img/favicon.ico"
 ---
 
 Something talking about the unplugged curriculum...
