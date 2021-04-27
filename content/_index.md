@@ -21,7 +21,7 @@ lobortis.
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
 {{< rawhtml >}}
     <!-- top  -->
-    <div class="card-deck d-flex justify-content-center">
+    <div class="card-deck d-flex justify-content-center mt-4">
       <div class="row justify-content-center">
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
@@ -45,7 +45,7 @@ lobortis.
       </div>
     </div>
     <!-- bottom  -->
-    <div class="card-deck d-flex justify-content-center">
+    <div class="card-deck d-flex justify-content-center mt-4">
       <div class="row justify-content-center">
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
