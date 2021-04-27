@@ -25,10 +25,10 @@ lobortis.
       <div class="row justify-content-center">
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
+          <img class="card-img-top" src="http://placekitten.com/350/350" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Unplugged</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.</p>
             <a href="./unplugged" class="btn btn-primary">See more Unplugged</a>
           </div>
         </div>
@@ -37,7 +37,7 @@ lobortis.
           <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">BoGL</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Teaching computer science concepts through BoGL, a board game programming language.</p>
             <a href="./bogl" class="btn btn-primary">See more BoGL</a>
           </div>
         </div>
@@ -49,16 +49,16 @@ lobortis.
       <div class="row justify-content-center">
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
+          <img class="card-img-top" src="http://placekitten.com/400/400" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Publications</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="card-text">Published papers related to the creation and usage of BoGL and unplugged.</p>
             <a href="./publications" class="btn btn-primary">See Publications</a>
           </div>
         </div>
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
+          <img class="card-img-top" src="http://placekitten.com/550/550" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Educator Material</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -67,7 +67,7 @@ lobortis.
         </div>
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
+          <img class="card-img-top" src="http://placekitten.com/900/900" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Personnel</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
