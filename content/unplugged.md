@@ -5,11 +5,13 @@ draft: true
 coverimage: "../img/favicon.ico"
 ---
 
-Something talking about the unplugged curriculum...
+Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.
 
-### Further Details
+### About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Unplugged curriculum aims to teach concepts of computer science *without* a programming
+language. The main concepts taught are: representation, abstraction, algorithms, input, output,
+instructions, conditions, types, names, values, computation, computer, resources, and bindings.
 
 ### Even More Details
 
