@@ -29,7 +29,7 @@ lobortis.
           <div class="card-body">
             <h5 class="card-title">Unplugged</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="./unplugged" class="btn btn-primary">See more Unplugged</a>
           </div>
         </div>
         <!-- a card  -->
@@ -38,7 +38,7 @@ lobortis.
           <div class="card-body">
             <h5 class="card-title">BoGL</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="./bogl" class="btn btn-primary">See more BoGL</a>
           </div>
         </div>
         </div>
@@ -53,7 +53,7 @@ lobortis.
           <div class="card-body">
             <h5 class="card-title">Publications</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="./publications" class="btn btn-primary">See Publications</a>
           </div>
         </div>
         <!-- a card  -->
@@ -62,7 +62,7 @@ lobortis.
           <div class="card-body">
             <h5 class="card-title">Educator Material</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="./educatormaterial" class="btn btn-primary">See Educator Material</a>
           </div>
         </div>
         <!-- a card  -->
@@ -71,7 +71,7 @@ lobortis.
           <div class="card-body">
             <h5 class="card-title">Personnel</h5>
             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="./personnel" class="btn btn-primary">See Personnel</a>
           </div>
         </div>
 {{< /rawhtml >}}
