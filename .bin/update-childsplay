@@ -10,3 +10,6 @@ cd /nfs/ca/info/research_www/childsplay
 git stash
 git checkout main
 git pull
+
+# rebuild the site with drafts enabled
+hugo -D
