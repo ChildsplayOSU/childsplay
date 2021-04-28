@@ -34,8 +34,8 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/350/350" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Unplugged</h5>
-            <p class="card-text">Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.</p>
-            <a href="./unplugged" class="btn btn-primary">See more Unplugged</a>
+            <p class="card-text cp-min-txt-height">Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.</p>
+            <a href="./unplugged" class="btn btn-primary cp-full-button">See more Unplugged</a>
           </div>
         </div>
         <!-- a card  -->
@@ -43,8 +43,8 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">BoGL</h5>
-            <p class="card-text">Teaching computer science concepts through BoGL, a board game programming language.</p>
-            <a href="./bogl" class="btn btn-primary">See more BoGL</a>
+            <p class="card-text cp-min-txt-height">Teaching computer science concepts through BoGL, a board game programming language.</p>
+            <a href="./bogl" class="btn btn-primary cp-full-button">See more BoGL</a>
           </div>
         </div>
         </div>
@@ -58,8 +58,8 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/400/400" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Publications</h5>
-            <p class="card-text">Published papers related to the creation and usage of BoGL and unplugged curriculum.</p>
-            <a href="./publications" class="btn btn-primary">See Publications</a>
+            <p class="card-text cp-min-txt-height">Published papers related to the creation and usage of BoGL and unplugged curriculum.</p>
+            <a href="./publications" class="btn btn-primary cp-full-button">See Publications</a>
           </div>
         </div>
         <!-- a card  -->
@@ -67,8 +67,8 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/550/550" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Educator Material</h5>
-            <p class="card-text">Unplugged and BoGL content for educators.</p>
-            <a href="./educatormaterial" class="btn btn-primary">See Educator Material</a>
+            <p class="card-text cp-min-txt-height">Unplugged and BoGL content for educators.</p>
+            <a href="./educatormaterial" class="btn btn-primary cp-full-button">See Educator Material</a>
           </div>
         </div>
         <!-- a card  -->
@@ -76,8 +76,8 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/900/900" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Personnel</h5>
-            <p class="card-text">People involved with the development of anything related to Childsplay.</p>
-            <a href="./personnel" class="btn btn-primary">See Personnel</a>
+            <p class="card-text cp-min-txt-height">People involved with the development of anything related to Childsplay.</p>
+            <a href="./personnel" class="btn btn-primary cp-full-button">See Personnel</a>
           </div>
         </div>
 {{< /rawhtml >}}

@@ -49,11 +49,11 @@ Fantastic contributions to the BoGL language!
 
 {{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 
-### Eric O'Brian Branner
+### Erick O'Brian Branner
 
 Built this site!
 
-[More about Eric](#)
+[More about Erick](#)
 
 {{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 

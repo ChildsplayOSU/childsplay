@@ -74,3 +74,16 @@
   background-position: center;
   background-repeat: no-repeat;
 }
+
+/** Home page button styling **/
+
+/* Makes the buttons fill the width of the card */
+.cp-full-button {
+  min-width: 100%;
+}
+
+/* Attempts to make all text sections the same height,
+ but doesn't fix them, in case they need more space */
+.cp-min-txt-height {
+  min-height: 100px;
+}
