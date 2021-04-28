@@ -1,7 +1,7 @@
 <!-- inline mini bogl repl -->
 <div class="bogl-embed-editor">
   <div class="bogl"></div>
-  <div class="left bogl-code" contenteditable="true" spellcheck="false">{{ trim .Inner "\n" }}</div>
+  <textarea class="left bogl-code" contenteditable="true" spellcheck="false">{{ trim .Inner "\n" }}</textarea>
   <div class="right">
     <div class="bogl-repl-result"></div>
     <input class="bogl-repl-run" placeholder=">" type="text" spellcheck="false"/>
@@ -9,3 +9,10 @@
 </div>
 <br/>
 <script src="../js/mini-editor.js" defer></script>
+
+<script src="../js/bogl-highlight.js"></script>
+
+<!--CodeMirror highlighting (textareas, editable)-->
+<link href="../codemirror-5.60.0/lib/codemirror.css" rel="stylesheet">
+<script src="../codemirror-5.60.0/lib/codemirror.js"></script>
+<script src="../codemirror-5.60.0/mode/bogl/bogl.js"></script>

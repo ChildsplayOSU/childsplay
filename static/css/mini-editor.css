@@ -60,9 +60,9 @@
   outline-width: 0;
 }
 
-.bogl-embed-editor .left {
+.bogl-embed-editor .left, .CodeMirror {
   display: inline-block;
-  height: 91%;
+  height: 91% !important;
   width: 65%;
   background: #fff;
   float: left;
@@ -70,11 +70,11 @@
   border-radius: 4px;
   padding: 4px;
   transition: 0.3s;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .haskell .left {
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .bogl-embed-editor .right {
@@ -102,7 +102,7 @@
   margin-top: 4px;
   padding: 4px;
   width: 95%;
-  opacity: 0.8;
+  opacity: 0.9;
 }
 
 .bogl-embed-editor .right input:focus {
@@ -123,11 +123,15 @@
     width: auto;
   }
 
-  .bogl-embed-editor .left {
+  .bogl-embed-editor .left, .CodeMirror {
     display: block;
     float: none;
     width: auto;
     max-height: 250px;
+  }
+
+  .bogl-repl-result {
+    max-height: 210px;
   }
 
   .bogl-embed-editor .right {
@@ -198,7 +202,7 @@
 .exercise {
   font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   background: #fff;
-  opacity: 0.8;
+  opacity: 0.9;
   padding: 8px;
   border-radius: 4px;
   margin-bottom: 4px;

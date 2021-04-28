@@ -222,8 +222,7 @@
   }
 
   // retrieves the raw code from an element
-  function getRawCode(elm) {
-    let code = elm.innerHTML;
+  function getRawCode(code) {
     // replace <br> with linebreaks
     code = code.replaceAll(/<div><br><\/div>/gi, '\n');
     // replace <div> and </div> with nothing!
@@ -347,7 +346,7 @@
     // prevent bubble
     e.preventDefault();
 
-    let code = getRawCode(codeElm);
+    let code = getRawCode(codeElm.getValue());
 
     // store command
     let cmd = inputx.value;
@@ -364,12 +363,12 @@
 
     // speak haskell and colors change (this can be removed if it's annoying...)
     if(cmd.match(/haskell/i)) {
-      codeElm.parentElement.className+= " haskell";
+      codeElm.getTextArea().parentElement.className+= " haskell";
       updateResults(resultx, "The language that BoGL was inspired and built from, <a href=\"https://www.haskell.org/\" target=\"_blank\">https://haskell.org/</a>");
       return;
 
     } else if(cmd.match(/bogl/i)) {
-      codeElm.parentElement.className= "bogl-embed-editor";
+      codeElm.getTextArea().parentElement.className= "bogl-embed-editor";
       updateResults(resultx, "Back to BoGL!");
       return;
 
@@ -473,7 +472,7 @@
     let checks = checkElm.getAttribute("checks").split("<br />").map(x => x.trim());
     let expects = checkElm.getAttribute("expects").split("<br />").map(x => x.trim());
 
-    let code = getRawCode(codeElm);
+    let code = getRawCode(codeElm.innerHTML);
 
     updateResults(resultElm, "checking...");
 
@@ -489,8 +488,34 @@
     // regular mini-editor
     //
     // retrieve and cleanup bogl code items
-    const codeElms = getByClass("bogl-code");
-    fapply (y => y.innerHTML = y.innerHTML.replaceAll(/\n/gi, '<br/>')) (codeElms);
+    let codeElms = getByClass("bogl-code");
+
+    /*
+      **************************************
+      TODO CodeMirror experiment...
+      **************************************
+    */
+    const cmSettings = {
+      lineWrapping: true,
+      lineNumbers: true,
+      mode: "bogl",
+      tabSize: 3
+    };
+
+    function updateCM(y) {
+      return CodeMirror.fromTextArea(y,cmSettings)
+    };
+    let cmEditors = [];
+    for(let x = 0; x < codeElms.length; x++) {
+      cmEditors.push(CodeMirror.fromTextArea(codeElms[x],cmSettings))
+    }
+
+    /*
+      **************************************
+      **************************************
+    */
+
+    //fapply (y => y.innerHTML = y.innerHTML.replaceAll(/\n/gi, '<br/>')) (codeElms);
 
     // get result elements
     const results = getByClass("bogl-repl-result");
@@ -502,7 +527,7 @@
 
     // map the keydown event for each REPL
     for(let x = 0; x < results.length; x++) {
-      onKeyDown(runREPL (lastCmd[x]) (inputs[x]) (results[x]) (codeElms[x])) (inputs[x]);
+      onKeyDown(runREPL (lastCmd[x]) (inputs[x]) (results[x]) (cmEditors[x])) (inputs[x]);
     }
 
 
@@ -524,6 +549,6 @@
 
   });
 
-  console.info("> 🤖 BoGL Embedded Editor Version 0.3.0. Last updated Jan. 7th, 2021");
+  console.info("> 🤖 BoGL Embedded Editor Version 0.4.0. Last updated April. 28th, 2021");
 
 })();
