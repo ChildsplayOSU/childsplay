@@ -5,30 +5,68 @@ draft: true
 coverimage: "../img/favicon.ico"
 ---
 
-Here's an example of some of the personnel that we have.
+{{< figure src="../img/jpm.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Jennifer Parham-Mocello
+
+Jennifer Parham-Mocello fell in love with computer science while pursuing an undergraduate degree in secondary math education. Since then, her focus turned to computer science education. Immediately after obtaining her bachelor’s in computer science, she became an adjunct instructor at a community college. She subsequently pursued a master’s in computer science, which sparked her interest in how people learn computer science, the best ways to teach computer science, and the higher-order/logical thinking skills needed for computer science. She returned to school for a doctorate focusing on how people solve problems in computer science. Her mission is to improve computer science education through exploratory research and empirical evidence, best teaching practices, and community efforts supporting computational literacy for all.
+
+[More about Dr. Parham-Mocello](https://eecs.oregonstate.edu/people/Parham-Mocello-Jennifer)
+
+{{< figure src="../img/erwig.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Martin Erwig
+
+Martin Erwig is a professor of computer science in the School of Electrical Engineering and Computer Science at Oregon State University. He obtained his Diploma degree in computer science (M.S.) in 1989 from the University of Dortmund, Germany, and his Ph.D. degree in computer science in 1994 from the University of Hagen, Germany. He also obtained the Habilitation in computer science in 1999 from the University of Hagen, Germany.
+
+From 1994 to 2000 Erwig was a research assistant at the University of Hagen, and from 2000 to 2010 he was an associate professor at OSU. His research interests are in language design and domain-specific languages, functional programming, and visual languages. Erwig is the author or co-author of two books and over 100 peer-reviewed publications, for which he received several best paper awards.
+
+[More about Dr. Erwig](https://eecs.oregonstate.edu/people/erwig-martin)
+
+{{< figure src="../img/niess.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Margaret Neiss
+
+Margaret (Maggie) L. Niess is Professor Emeritus of Mathematics Education at Oregon State University.  Her research focuses on the knowledge teachers rely on for integrating technologies in their teaching -Technological Pedagogical Content Knowledge, often referred to as TPACK. She has authored multiple peer-reviewed journals and chapter including multiple teacher preparation books. She directed the design, implementation, and evaluation of an online Master of Science program for K-12 mathematics and science teacher with an interdisciplinary science mathematics, and technology emphasis. Her research from this program explores the effectiveness of social metacognitive constructivist learning trajectory in online graduate coursework. She has been an editor of multiple Handbooks of Research for IGI Global.  She has chaired multiple committees for the Association of Mathematics Teacher Educators (AMTE) and has served as chair for the American Educational Research Association’s (AERA) SIG-TACTL (Technology as  a Change Agent in Teaching and Learning).
+
+[More about Dr. Niess](https://education.oregonstate.edu/people/margaret-niess)
 
 {{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 
-### Person Eta
+### Aiden Jarrid Nelson
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Excellent curriculum work, and tutorials.
 
-[More about Eta](#)
-
-{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
-
-### Person Theta
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-[More about Theta](#)
+[More about Aiden](#)
 
 {{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 
-### Person Iota
+### Alex Grejuc
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Fantastic contributions to the BoGL language!
 
-[More about Iota](#)
+[More about Alex](#)
 
-...and continue listing the rest of the team...
+{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Eric O'Brian Branner
+
+Built this site!
+
+[More about Eric](#)
+
+{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Javier Garcia Ramirez
+
+Excellent curriculum work.
+
+[More about Javier](#)
+
+{{< figure src="../img/ben.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
+
+### Benjamin Wilson Friedman
+
+Also built this site!
+
+[More about Benjamin](https://www.uphouseworks.com)
