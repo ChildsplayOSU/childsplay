@@ -370,7 +370,7 @@
 
     } else if(cmd.match(/bogl/i)) {
       codeElm.parentElement.className= "bogl-embed-editor";
-      updateResults(resultx, "BoGL");
+      updateResults(resultx, "Back to BoGL!");
       return;
 
     } else if(cmd.match(/help/i)) {

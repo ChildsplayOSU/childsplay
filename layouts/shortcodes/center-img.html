@@ -1,2 +1,5 @@
-<div class="center-img" style="background-image:url('{{.Get "src"}}')">
-</div>
+<!-- <div class="center-img" style="background-image:url('{{.Get "src"}}')"></div> -->
+<img src='{{.Get "src"}}' style="max-width:700px;margin:8px auto;display:block">
+<span style="text-align:center;font-size:14px;color:#aaa;display:block;margin-bottom:32px">
+  {{.Get "caption"}}
+</span>
