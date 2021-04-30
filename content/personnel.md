@@ -35,7 +35,7 @@ Margaret (Maggie) L. Niess is Professor Emeritus of Mathematics Education at Ore
 
 ### Aiden Jarrid Nelson
 
-Excellent curriculum work, and tutorials.
+Aiden Nelson obtained his undergraduate degree in computer science at Oregon State University. There he worked as a teaching assistant, during which he became interested in the teaching component of the field. This lead him to pursue a masters degree in computer science education at Oregon State University. Aiden’s contributions to the Childsplay Research Project include developing curriculum material and producing BoGL language tutorials.
 
 [More about Aiden](#)
 
