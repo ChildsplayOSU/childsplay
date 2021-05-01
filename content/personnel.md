@@ -39,13 +39,11 @@ Aiden Nelson obtained his undergraduate degree in computer science at Oregon Sta
 
 [More about Aiden](#)
 
-{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/alex.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
 
 ### Alex Grejuc
 
-Fantastic contributions to the BoGL language!
-
-[More about Alex](#)
+Alex Grejuc is an undergraduate student studying computer science with a minor in English at Oregon State University, though he will be graduating in June 2021. He has been involved in the design and implementation of BoGL since the very beginning in fall 2019 when it was a computer science capstone project. He is currently writing an honors thesis in which he is formalizing BoGL's while loops as well as its type system.
 
 {{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 
