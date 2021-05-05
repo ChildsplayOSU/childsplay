@@ -51,11 +51,11 @@ Fantastic contributions to the BoGL language!
 
 ### Erick O'Brian Branner
 
-Built this site!
+Erick Branner is an undergraduate computer science student at Oregon State University. He has worked as a teaching assistant for introductory computer science courses and has various research dedications. Erick is developing a deafness simulator, created tests for BoGL curriculum, and has contributed to the construction of the Childsplay website.
 
-[More about Erick](#)
+[More about Erick](https://www.linkedin.com/in/erick-branner-470755161/)
 
-{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/erick.jpg" alt="Erick O'Brian Branner" width="200" height="200" class="top-16" >}}
 
 ### Javier Garcia Ramirez
 
