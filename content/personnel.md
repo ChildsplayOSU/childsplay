@@ -27,7 +27,7 @@ From 1994 to 2000 Erwig was a research assistant at the University of Hagen, and
 
 ### Margaret Neiss
 
-Margaret (Maggie) L. Niess is Professor Emeritus of Mathematics Education at Oregon State University.  Her research focuses on the knowledge teachers rely on for integrating technologies in their teaching -Technological Pedagogical Content Knowledge, often referred to as TPACK. She has authored multiple peer-reviewed journals and chapter including multiple teacher preparation books. She directed the design, implementation, and evaluation of an online Master of Science program for K-12 mathematics and science teacher with an interdisciplinary science mathematics, and technology emphasis. Her research from this program explores the effectiveness of social metacognitive constructivist learning trajectory in online graduate coursework. She has been an editor of multiple Handbooks of Research for IGI Global.  She has chaired multiple committees for the Association of Mathematics Teacher Educators (AMTE) and has served as chair for the American Educational Research Association’s (AERA) SIG-TACTL (Technology as  a Change Agent in Teaching and Learning).
+Margaret (Maggie) L. Niess is Professor Emeritus of Mathematics Education at Oregon State University.  Her research focuses on the knowledge teachers rely on for teaching -Technological Pedagogical Content Knowledge, often referred to as TPACK. She has authored multiple peer-reviewed journals and chapters including teacher preparation books. Her most recent book is Blended Online Learning and Instructional Design for TPACK: Emerging Research and Opportunities (2019). She has been editor of multiple Handbooks of Research for IGI Global, the most recent being Handbook of Research on Transforming Teachers’ Online Pedagogical Reasoning for Engaging K-12 Students in Virtual Learning (2021). Her research has identified an online learning trajectory for framing student-centered instructional strategies using a social metacognitive constructivist context. In 2014 she awarded the George G. Mallison Distinguished Service Award for the School Science and Mathematics Association. In 2015 her article in the Journal of Digital Learning in Teacher Education was awarded article of the year. She has chaired multiple committees for the Association of Mathematics Teacher Educators (AMTE) and has served as chair for the American Educational Research Association’s (AERA) SIG-TACTL (Technology as  a Change Agent in Teaching and Learning).
 
 [More about Dr. Niess](https://education.oregonstate.edu/people/margaret-niess)
 
@@ -47,7 +47,7 @@ Fantastic contributions to the BoGL language!
 
 [More about Alex](#)
 
-{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/erick.jpg" alt="Erick O'Brian Branner" width="200" height="200" class="top-16" >}}
 
 ### Erick O'Brian Branner
 
@@ -55,7 +55,7 @@ Erick Branner is an undergraduate computer science student at Oregon State Unive
 
 [More about Erick](https://www.linkedin.com/in/erick-branner-470755161/)
 
-{{< figure src="../img/erick.jpg" alt="Erick O'Brian Branner" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/favicon.iso" alt="Person 1" width="200" height="200" class="top-16" >}}
 
 ### Javier Garcia Ramirez
 
