@@ -57,7 +57,7 @@ Erick Branner is an undergraduate computer science student at Oregon State Unive
 
 ### Javier Garcia Ramirez
 
-Excellent curriculum work.
+Javier Garcia is an undergraduate student at Oregon State University majoring in computer science. After taking his first university computer science course, Javier was fascinated the strategies used to teach computer science concepts, which eventually led him to work on the Childsplay Research Project. Javier's focus was on developing curriculum work.
 
 [More about Javier](#)
 
