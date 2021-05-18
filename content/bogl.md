@@ -1,5 +1,5 @@
 ---
-title: "Bogl"
+title: "BoGL"
 date: 2021-04-06T19:06:33-07:00
 draft: true
 coverimage: "../img/favicon.ico"
