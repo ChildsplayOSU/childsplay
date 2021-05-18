@@ -1,5 +1,5 @@
 ---
-title: "BoGL"
+title: "Programming"
 date: 2021-04-06T19:06:33-07:00
 draft: true
 coverimage: "../img/favicon.ico"
@@ -7,7 +7,7 @@ coverimage: "../img/favicon.ico"
 
 ### Introduction
 
-BoGL is a domain specific teaching language developed by Professor Martin Erwig and Oregon State University students. It is designed to be easy to use, and easy to teach. BoGL is completely accessible in an [online web tool](https://bogl.engr.oregonsttae.edu), removing the need to install anything to get started. Support and materials for the language are available online in the form of tutorials and documentation. For instructors that are interested in using BoGL as part of their curriculum, see the [Educator Material page for more info](../educatormaterial/).
+In this curriculum, we use BoGL, a domain specific teaching language developed by Professor Martin Erwig and Oregon State University students. It is designed to be easy to use, and easy to teach. BoGL is completely accessible in an [online web tool](https://bogl.engr.oregonsttae.edu), removing the need to install anything to get started. Support and materials for the language are available online in the form of tutorials and documentation. For instructors that are interested in using BoGL as part of their curriculum, see the [Educator Material page for more info](../educatormaterial/).
 
 {{< center-img src="../img/bogl.png" width="600" >}}
 

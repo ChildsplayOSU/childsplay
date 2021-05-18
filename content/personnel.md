@@ -53,7 +53,7 @@ Erick Branner is an undergraduate computer science student at Oregon State Unive
 
 [More about Erick](https://www.linkedin.com/in/erick-branner-470755161/)
 
-{{< figure src="../img/favicon.iso" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
 
 ### Javier Garcia Ramirez
 
@@ -65,6 +65,6 @@ Javier Garcia is an undergraduate student at Oregon State University majoring in
 
 ### Benjamin Wilson Friedman
 
-Also built this site!
+Benjamin Wilson Friedman is a graduate student at Oregon State University studying for an M.S in computer science, with a focus on developing ways to improve CS education through formal analysis of programs. He also did his undergrad at OSU in CS, where he worked as a learning assistant to help instruct students in introductory CS courses. During his time at OSU, he was part of the team that designed and implemented BoGL, and continues to work on it today. Ben was responsible for building this website, and the tools behind it, along with Erick.
 
 [More about Benjamin](https://www.uphouseworks.com)

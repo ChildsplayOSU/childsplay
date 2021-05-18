@@ -1,5 +1,5 @@
 ---
-title: "Unplugged"
+title: "Playing"
 date: 2021-04-06T19:05:40-07:00
 draft: true
 coverimage: "../img/favicon.ico"
@@ -27,13 +27,8 @@ We represent the board as a treasure map, which has various chests on it, and ro
 
 ### Unit 1 Preview
 
-Ben: I have questions for this before I start writing this in.
-- Is this a preview of Unit 1 for 6th or 7th grade?
-- Is this a preview of the entire unit, or just a day (or 2)
-- Do you want this to be:
-  - a summary of the coversheet(s)?
-  - a general walkthrough of what is covered?
+...TODO...
 
 ### Interested?
 
-[Contact Us](#)
+You can [contact us](/childsplay/contact) to find out how you can use our curriculum in your classroom.
