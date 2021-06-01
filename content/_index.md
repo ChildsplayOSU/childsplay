@@ -6,22 +6,12 @@ coverimage: "/childsplay/img/favicon.ico"
 ---
 
 ### The approach
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus velit et metus pharetra
-ullamcorper. Nunc nec ornare erat, vitae maximus eros. Etiam pharetra efficitur sapien ut
-ultricies. Ut lacus quam, consequat non efficitur sodales, porta ullamcorper orci. Praesent
-ultricies sit amet tellus vitae volutpat. Duis ac nisi ornare, lacinia dolor ut, efficitur ex. Nam
-consectetur bibendum vestibulum.
-
-Aenean id lacus maximus tortor elementum molestie id a est. Vivamus nec neque ante. Etiam
-maximus nulla ac lectus tempor efficitur. Sed in nulla magna. Cras sed ullamcorper ipsum, ac
-fermentum lacus. Maecenas odio dolor, interdum quis nisl mattis, semper viverra nulla. Fusce
-eu tortor sed felis aliquam tempor quis sed augue. Fusce dapibus dui malesuada sollicitudin
-lobortis.
+The goal of this curriculum is to teach computer science concepts through playing and analysis of board games. There are two curriculums. One focuses on gaining problem-solving skills and understanding Representations, Algorithms, and Computation (Not Programming). The second curriculum aims for deeper understanding about concepts mentioned previously -- the concepts are applied to programming. Additionally, the second curriculum is meant to provide problem-solving skills.
 
 
 ### About
 Childsplay contains supplemental information related to the development of curriculum and tools
-for BoGL. Work for this project has been funded by an NSF grant obtained by [The School of
+for BoGL. Work for this project has been funded by an NSF grant obtained by the [School of
 Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/).
 
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
