@@ -18,10 +18,40 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
 
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
 {{< rawhtml 
+  
   card-1-title="Playing" 
   card-1-desc="Focused on problem solving-skills and understanding Representations, Algorithms, and Computation."
-  card-1-btn-txt="See more Playing"
+  card-1-btn-txt="See more about Playing"
   card-1-btn-link="./playing"
   card-1-img="http://placekitten.com/400/400"
   card-1-img-caption="caption"
+
+  card-2-title="Programming" 
+  card-2-desc="Teaching computer science concepts through BoGL, a board game programming language."
+  card-2-btn-txt="See more about Programming"
+  card-2-btn-link="./programming"
+  card-2-img="http://placekitten.com/400/400"
+  card-2-img-caption="caption"
+
+  card-3-title="Publications" 
+  card-3-desc="Published papers related to the curriculum."
+  card-3-btn-txt="See Publications"
+  card-3-btn-link="./publications"
+  card-3-img="http://placekitten.com/400/400"
+  card-3-img-caption="caption"
+
+  card-4-title="Personnel" 
+  card-4-desc="People involved with the development of anything related to Childsplay."
+  card-4-btn-txt="See Personnel"
+  card-4-btn-link="./personnel"
+  card-4-img="http://placekitten.com/400/400"
+  card-4-img-caption="caption"
+
+  card-5-title="Contact" 
+  card-5-desc="Contact the ChildsPlay research group for inquiries."
+  card-5-btn-txt="See Contact information"
+  card-5-btn-link="./contact"
+  card-5-img="http://placekitten.com/400/400"
+  card-5-img-caption="caption"
+
 >}}
