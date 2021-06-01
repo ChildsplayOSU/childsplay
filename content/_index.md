@@ -14,60 +14,12 @@ Childsplay contains supplemental information related to the development of curri
 for BoGL. Work for this project has been funded by an NSF grant obtained by the [School of
 Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/).
 
+<!-- {{< center-img src="../img/bogl.png" width="600" >}} -->
+
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
-{{< rawhtml >}}
-    <!-- top  -->
-    <div class="card-deck d-flex justify-content-center mt-4">
-      <div class="row justify-content-center">
-        <!-- a card  -->
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/350/350" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Playing</h5>
-            <p class="card-text cp-min-txt-height">Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.</p>
-            <a href="./playing" class="btn btn-primary cp-full-button">See more Playing</a>
-          </div>
-        </div>
-        <!-- a card  -->
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Programming</h5>
-            <p class="card-text cp-min-txt-height">Teaching computer science concepts through BoGL, a board game programming language.</p>
-            <a href="./programming" class="btn btn-primary cp-full-button">See more Programming</a>
-          </div>
-        </div>
-        </div>
-      </div>
-    </div>
-    <!-- bottom  -->
-    <div class="card-deck d-flex justify-content-center mt-4">
-      <div class="row justify-content-center">
-        <!-- a card  -->
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/400/400" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Publications</h5>
-            <p class="card-text cp-min-txt-height">Published papers related to the curriculum.</p>
-            <a href="./publications" class="btn btn-primary cp-full-button">See Publications</a>
-          </div>
-        </div>
-        <!-- a card  -->
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/550/550" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Personnel</h5>
-            <p class="card-text cp-min-txt-height">People involved with the development of anything related to Childsplay.</p>
-            <a href="./personnel" class="btn btn-primary cp-full-button">See Personnel</a>
-          </div>
-        </div>
-        <!-- a card  -->
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/900/900" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Contact</h5>
-            <p class="card-text cp-min-txt-height">Contact the ChildsPlay research group for inquiries.</p>
-            <a href="./contact" class="btn btn-primary cp-full-button">See Contact</a>
-          </div>
-        </div>
-{{< /rawhtml >}}
+{{< rawhtml 
+  card-1-title="Playing" 
+  card-1-desc="Focused on problem solving-skills and understanding Representations, Algorithms, and Computation."
+  card-1-btn-txt="See more Playing"
+  card-1-btn-link="./playing"
+>}}
