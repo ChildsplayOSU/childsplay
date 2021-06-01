@@ -22,4 +22,6 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
   card-1-desc="Focused on problem solving-skills and understanding Representations, Algorithms, and Computation."
   card-1-btn-txt="See more Playing"
   card-1-btn-link="./playing"
+  card-1-img="http://placekitten.com/400/400"
+  card-1-img-caption="caption"
 >}}

@@ -3,7 +3,7 @@
       <div class="row justify-content-center">
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
-          <img class="card-img-top" src="http://placekitten.com/350/350" alt="Card image cap">
+          <img class="card-img-top" src='{{.Get "card-1-img"}}' alt='{{.Get "card-1-img-caption"}}'>
           <div class="card-body">
             <h5 class="card-title">{{.Get "card-1-title"}}</h5>
             <p class="card-text cp-min-txt-height">{{.Get "card-1-desc"}}</p>
