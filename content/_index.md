@@ -23,18 +23,18 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
         <div class="card" style="width: 18rem;">
           <img class="card-img-top" src="http://placekitten.com/350/350" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Unplugged</h5>
+            <h5 class="card-title">Playing</h5>
             <p class="card-text cp-min-txt-height">Focused on problem solving-skills and understanding Representations, Algorithms, and Computation.</p>
-            <a href="./unplugged" class="btn btn-primary cp-full-button">See more Unplugged</a>
+            <a href="./unplugged" class="btn btn-primary cp-full-button">See more Playing</a>
           </div>
         </div>
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
           <img class="card-img-top" src="http://placekitten.com/250/250" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">BoGL</h5>
+            <h5 class="card-title">Programming</h5>
             <p class="card-text cp-min-txt-height">Teaching computer science concepts through BoGL, a board game programming language.</p>
-            <a href="./bogl" class="btn btn-primary cp-full-button">See more BoGL</a>
+            <a href="./bogl" class="btn btn-primary cp-full-button">See more Programming</a>
           </div>
         </div>
         </div>
@@ -48,7 +48,7 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
           <img class="card-img-top" src="http://placekitten.com/400/400" alt="Card image cap">
           <div class="card-body">
             <h5 class="card-title">Publications</h5>
-            <p class="card-text cp-min-txt-height">Published papers related to the creation and usage of BoGL and unplugged curriculum.</p>
+            <p class="card-text cp-min-txt-height">Published papers related to the curriculum</p>
             <a href="./publications" class="btn btn-primary cp-full-button">See Publications</a>
           </div>
         </div>
@@ -56,18 +56,18 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
         <div class="card" style="width: 18rem;">
           <img class="card-img-top" src="http://placekitten.com/550/550" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Educator Material</h5>
-            <p class="card-text cp-min-txt-height">Unplugged and BoGL content for educators.</p>
-            <a href="./educatormaterial" class="btn btn-primary cp-full-button">See Educator Material</a>
+            <h5 class="card-title">Personnel</h5>
+            <p class="card-text cp-min-txt-height">People involved with the development of anything related to Childsplay.</p>
+            <a href="./educatormaterial" class="btn btn-primary cp-full-button">See Personnel</a>
           </div>
         </div>
         <!-- a card  -->
         <div class="card" style="width: 18rem;">
           <img class="card-img-top" src="http://placekitten.com/900/900" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Personnel</h5>
+            <h5 class="card-title">Contact</h5>
             <p class="card-text cp-min-txt-height">People involved with the development of anything related to Childsplay.</p>
-            <a href="./personnel" class="btn btn-primary cp-full-button">See Personnel</a>
+            <a href="./personnel" class="btn btn-primary cp-full-button">See Contact</a>
           </div>
         </div>
 {{< /rawhtml >}}
