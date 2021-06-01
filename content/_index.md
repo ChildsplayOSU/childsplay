@@ -16,7 +16,7 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
 
 
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
-{{< rawhtml 
+{{< cards 
   
   card-1-title="Playing" 
   card-1-desc="Focused on problem solving-skills and understanding Representations, Algorithms, and Computation."
