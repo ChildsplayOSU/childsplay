@@ -14,7 +14,6 @@ Childsplay contains supplemental information related to the development of curri
 for BoGL. Work for this project has been funded by an NSF grant obtained by the [School of
 Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/).
 
-<!-- {{< center-img src="../img/bogl.png" width="600" >}} -->
 
 <!-- Large buttons at bottom of bage/supplemental nav bar -->
 {{< rawhtml 
@@ -23,15 +22,15 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
   card-1-desc="Focused on problem solving-skills and understanding Representations, Algorithms, and Computation."
   card-1-btn-txt="See more about Playing"
   card-1-btn-link="./playing"
-  card-1-img="http://placekitten.com/400/400"
-  card-1-img-caption="caption"
+  card-1-img="../img/playing.png"
+  card-1-img-caption="playing image"
 
   card-2-title="Programming" 
   card-2-desc="Teaching computer science concepts through BoGL, a board game programming language."
   card-2-btn-txt="See more about Programming"
   card-2-btn-link="./programming"
-  card-2-img="http://placekitten.com/400/400"
-  card-2-img-caption="caption"
+  card-2-img="../img/programming.png"
+  card-2-img-caption="prgramming image"
 
   card-3-title="Publications" 
   card-3-desc="Published papers related to the curriculum."
