@@ -53,13 +53,13 @@ Erick Branner is an undergraduate computer science student at Oregon State Unive
 
 [More about Erick](https://www.linkedin.com/in/erick-branner-470755161/)
 
-{{< figure src="../img/favicon.ico" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/javier.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
 
 ### Javier Garcia Ramirez
 
 Javier Garcia is an undergraduate student at Oregon State University majoring in computer science. After taking his first university computer science course, Javier was fascinated the strategies used to teach computer science concepts, which eventually led him to work on the Childsplay Research Project. Javier's focus was on developing curriculum work.
 
-[More about Javier](#)
+[More about Javier](https://www.linkedin.com/in/javier-garcia-x/)
 
 {{< figure src="../img/ben.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
 
