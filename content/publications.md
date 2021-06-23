@@ -2,7 +2,7 @@
 title: "Publications"
 date: 2021-04-06T20:03:06-07:00
 draft: true
-coverimage: "../img/favicon.ico"
+coverimage: "../img/publications.jpg"
 ---
 
 ### Reframing Middle School Mathematics Teachers’ TPACK for Teaching A New Computer Science Curriculum: Researcher-Practitioner Partnership, Board Games, and Virtual Teaching Experiences

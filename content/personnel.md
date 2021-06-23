@@ -2,7 +2,7 @@
 title: "Personnel"
 date: 2021-04-06T19:06:29-07:00
 draft: true
-coverimage: "../img/favicon.ico"
+coverimage: "../img/personnel.jpg"
 ---
 
 {{< figure src="../img/jpm.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
