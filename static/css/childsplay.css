@@ -17,6 +17,10 @@
   /* background: #eee; */
 }
 
+.top-16 img {
+  border-radius: 100px;
+}
+
 
 /** Home Page Button Styling **/
 /* This is meant to be a tempory fix for css not applying to these buttons */

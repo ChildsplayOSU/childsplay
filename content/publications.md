@@ -5,5 +5,7 @@ draft: true
 coverimage: "../img/publications.jpg"
 ---
 
+A collection of the publications made by our research group.
+
 ### Reframing Middle School Mathematics Teachers’ TPACK for Teaching A New Computer Science Curriculum: Researcher-Practitioner Partnership, Board Games, and Virtual Teaching Experiences
 Niess, M., Parham-Mocello, J, Erwig, M. (2021, March). Reframing Middle School Mathematics Teachers’ TPACK for Teaching A New Computer Science Curriculum: Researcher-Practitioner Partnership, Board Games, and Virtual Teaching Experiences. Full paper at the Online Annual Society for Information Technology and Teacher Education (SITE).

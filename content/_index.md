@@ -5,8 +5,10 @@ draft: true
 coverimage: "/childsplay/img/home.jpg"
 ---
 
+A site dedicated to showcasing a curriculum focused on teaching students introductory computer science concepts through board games and programming.
+
 ### The approach
-The goal of this curriculum is to teach computer science concepts through playing and analysis of board games. There are two curriculums. One focuses on gaining problem-solving skills and understanding Representations, Algorithms, and Computation (Not Programming). The second curriculum aims for deeper understanding about concepts mentioned previously -- the concepts are applied to programming. Additionally, the second curriculum is meant to provide problem-solving skills.
+Our curriculum teaches computer science concepts to young students through playing and analysis of board games. There are two curriculums that work together to do this. The first focuses on gaining problem-solving skills and understanding Representations, Algorithms, and Computation (Not Programming). The second aims for building a deeper understanding about concepts mentioned previously -- the concepts are applied to programming. Additionally, the second curriculum is meant to provide problem-solving skills.
 
 
 ### About
@@ -40,14 +42,14 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
   card-3-img-caption="caption"
 
   card-4-title="Personnel"
-  card-4-desc="People involved with the development of anything related to Childsplay."
+  card-4-desc="Read about the team members involved in our research group."
   card-4-btn-txt="See Personnel"
   card-4-btn-link="./personnel"
   card-4-img="img/personnel-small.jpg"
   card-4-img-caption="caption"
 
   card-5-title="Contact"
-  card-5-desc="Contact the ChildsPlay research group for inquiries."
+  card-5-desc="Contact the Childsplay research group for inquiries."
   card-5-btn-txt="See Contact information"
   card-5-btn-link="./contact"
   card-5-img="img/ttt-small.jpg"
