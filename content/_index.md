@@ -45,7 +45,7 @@ Electrical Engineering and Computer Science](https://eecs.oregonstate.edu/) at [
   card-4-desc="Read about the team members involved in our research group."
   card-4-btn-txt="See Personnel"
   card-4-btn-link="./personnel"
-  card-4-img="img/personnel-small.jpg"
+  card-4-img="img/personnel.jpg"
   card-4-img-caption="caption"
 
   card-5-title="Contact"

@@ -2,3 +2,4 @@
 .bin/hugo
 public
 TODO.md
+*.xcf
