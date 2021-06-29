@@ -27,7 +27,7 @@ We represent the board as a treasure map, which has various chests on it, and ro
 
 ### Unit 1 Preview
 
-...TODO...
+The unit 1 preview is still being worked on at the moment...
 
 ### Interested?
 
