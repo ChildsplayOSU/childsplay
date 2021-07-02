@@ -13,10 +13,6 @@ The Unplugged curriculum aims to teach concepts of computer science *without* a 
 language. The main concepts taught are: representation, abstraction, algorithms, input, output,
 instructions, conditions, types, names, values, computation, computer, resources, and bindings.
 
-### Even More Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### An Unplugged Example
 
 One of the topics we cover in our unplugged curriculum is the game of Tic Tac Toe. This makes a great example to get students thinking about computer science, but in a way that's familiar and fun for them. We start by talking about a very abstract idea of what Tic Tac Toe is. This helps to challenge what students already know about the game, and connect it the important CS concepts we want to teach. You can see our initial presentation of tic tac toe below.
