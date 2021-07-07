@@ -11,5 +11,9 @@ git stash
 git checkout main
 git pull
 
+# reset permissions back for the 'childsplay' group
+# (git overrides them)
+chmod -R g+rwX *
+
 # rebuild the site with drafts enabled
 hugo -D
