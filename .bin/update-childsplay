@@ -6,14 +6,47 @@
 # under the 'childsplay' group
 #
 
-cd /nfs/ca/info/research_www/childsplay
-git stash
-git checkout main
-git pull
+CHILDSPLAY_DIR=/nfs/ca/info/research_www/childsplay
 
-# reset permissions back for the 'childsplay' group
-# (git overrides them)
-chmod -R g+rwX *
+echo "* starting"
+
+# check to create 'childsplay-tmp' dir in the home
+if [ ! -d ~/.childsplay-tmp ]; then
+  echo "* setting up tmp dir"
+  mkdir ~/.childsplay-tmp
+fi
+
+# cleanup tmp contents before we start, in case a prior run failed
+rm -rf ~/.childsplay-tmp/*
+
+# download latest childsplay version off the main branch into the tmp folder
+echo "* downloading latest website zip..."
+curl -Ls https://github.com/ChildsplayOSU/childsplay/archive/refs/heads/main.zip -o ~/.childsplay-tmp/childsplay-main.zip
+
+# unzip
+echo "* unzipping site..."
+unzip -q ~/.childsplay-tmp/childsplay-main.zip -d ~/.childsplay-tmp/
+
+# modify permissions to give user & group equal access, & read-only for server
+echo "* updating permissions..."
+# change group to 'childsplay'
+chgrp -R childsplay ~/.childsplay-tmp/childsplay-main/
+# give user & group read/write/CD and others read/CD only
+chmod -R ug+wrX,o+rX ~/.childsplay-tmp/childsplay-main/
+# make .bin contents executable by user & group
+chmod -R 774 ~/.childsplay-tmp/childsplay-main/.bin/
+
+# copy to server
+echo "* syncing files..."
+rsync -r ~/.childsplay-tmp/childsplay-main/ $CHILDSPLAY_DIR
 
 # rebuild the site with drafts enabled
+echo "* rebuilding site..."
+cd $CHILDSPLAY_DIR
 hugo -D
+
+# cleanup contents in temp
+echo "* cleaning up..."
+rm -rf ~/.childsplay-tmp/*
+
+echo "* Website Updated: https://research.engr.oregonstate.edu/childsplay/"
