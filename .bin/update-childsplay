@@ -1,9 +1,12 @@
 #! /bin/bash
 
 #
-# Updates the childsplay website (straight from git)
-# Located at /nfs/ca/info/research_www/childsplay on flip
+# Updates the childsplay website using the latest zip archive from github
+# https://github.com/ChildsplayOSU/childsplay
+# The website itself is located at /nfs/ca/info/research_www/childsplay on flip
 # under the 'childsplay' group
+#
+# Updated by Benjamin Wilson (@montymxb on Github), July 8th, 2021
 #
 
 CHILDSPLAY_DIR=/nfs/ca/info/research_www/childsplay
