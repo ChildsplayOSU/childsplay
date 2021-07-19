@@ -31,7 +31,7 @@ Margaret (Maggie) L. Niess is Professor Emeritus of Mathematics Education at Ore
 
 [More about Dr. Niess](https://education.oregonstate.edu/people/margaret-niess)
 
-{{< figure src="../img/aiden.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/aiden_sq.jpg" alt="Person 1" width="200" height="200" class="top-16" >}}
 
 ### Aiden Jarrid Nelson
 
