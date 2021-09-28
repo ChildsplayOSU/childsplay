@@ -68,3 +68,12 @@ Javier Garcia is an undergraduate student at Oregon State University majoring in
 Benjamin Wilson Friedman is a graduate student at Oregon State University studying for an M.S in computer science, with a focus on developing ways to improve CS education through formal analysis of programs. He also did his undergrad at OSU in CS, where he worked as a learning assistant to help instruct students in introductory CS courses. During his time at OSU, he was part of the team that designed and implemented BoGL, and continues to work on it today. Ben was responsible for building this website, and the tools behind it, along with Erick.
 
 [More about Benjamin](https://www.uphouseworks.com)
+
+
+{{< figure src="../img/Garrett.jpg" alt="Garrett Berliner" width="200" height="200" class="top-16" >}}
+
+### Garrett Berliner
+
+Garrett Berliner is an undergraduate student studying computer science with a minor in mathematics. After completing his first academic year, Garrett was eager to get involved with research and deepen his understanding of computer science. Since joining the team, Garrett has assisted on reviewing and developing curriculum, along with updating & maintaining the tutorial and Child's Play websites.
+
+[More about Garrett](https://www.linkedin.com/in/garrettberliner/)
