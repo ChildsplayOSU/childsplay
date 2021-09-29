@@ -70,7 +70,7 @@ Benjamin Wilson Friedman is a graduate student at Oregon State University studyi
 [More about Benjamin](https://www.uphouseworks.com)
 
 
-{{< figure src="../img/Garrett_B.jpg" alt="Garrett Berliner" width="200" height="200" class="top-16" >}}
+{{< figure src="../img/Garrett.jpg" alt="Garrett Berliner" width="200" height="200" class="top-16" >}}
 
 ### Garrett Berliner
 
